@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863587597015",
+    "project_id": "the-bridge-7cdf0",
+    "storage_bucket": "the-bridge-7cdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863587597015:android:24e33f195d0c9218800e92",
+        "android_client_info": {
+          "package_name": "com.example.thebridges"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopkKExh-OwmkNG9g9EulgJNHHJCvSTFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
